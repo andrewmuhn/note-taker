@@ -7,6 +7,8 @@ notes.route('/')
   .post((req, res) => {
 
   })
-  .delete(':id', (req, res) => {
+// .delete(':id', (req, res) => {
 
-  });
+// });
+
+module.exports = notes;
