@@ -1,5 +1,6 @@
 const notes = require('express').Router();
 const { readFromFile, readAndAppend } = require('../helpers/fsUtils');
+const { v4: uuidv4 } = require('uuid');
 
 notes.route('/')
   .get((req, res) => {
@@ -13,7 +14,8 @@ notes.route('/')
     if (req.body) {
       const newNote = {
         title,
-        text
+        text,
+        note_id: uuidv4()
       };
 
       readAndAppend(newNote, './db/db.json');
@@ -22,8 +24,13 @@ notes.route('/')
       res.errored('Error adding Note');
     }
   });
-// .delete(':id', (req, res) => {
 
-// });
+notes.route('/:id')
+  .get((req, res) => {
+
+  })
+  .delete((req, res) => {
+
+  });
 
 module.exports = notes;
