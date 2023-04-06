@@ -1,6 +1,10 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Test Title",
+        "text": "Test text"
+    },
+    {
+        "title": "Learn Express.js",
+        "text": "In order to start implementing server side code you must learn Express.js"
     }
 ]
