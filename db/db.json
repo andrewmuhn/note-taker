@@ -1,10 +1,22 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "Learn Express",
+        "text": "To implement client side requests and responses learn express.js",
+        "id": "59b63d08-2b5e-4c86-b588-430300dea146"
     },
     {
-        "title": "Learn Express.js",
-        "text": "In order to start implementing server side code you must learn Express.js"
+        "title": "Learn Node.js",
+        "text": "You already are figuring out js, why not continue into the world of ff browser applications with node.js",
+        "id": "6cfab830-3c41-418f-be5d-efd3180ed016"
+    },
+    {
+        "title": "Learn ES6",
+        "text": "Stay up to date with new syntax that make you a more efficient and more legible coder!",
+        "id": "911899ca-7d71-48c3-9845-184bee672900"
+    },
+    {
+        "title": "Learn MySQL",
+        "text": "It's next up!",
+        "id": "25fae408-3488-4c37-b8b0-1e70d192d965"
     }
 ]
