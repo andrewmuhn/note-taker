@@ -10,13 +10,13 @@
         "id": "6cfab830-3c41-418f-be5d-efd3180ed016"
     },
     {
-        "title": "Learn ES6",
-        "text": "Stay up to date with new syntax that make you a more efficient and more legible coder!",
-        "id": "911899ca-7d71-48c3-9845-184bee672900"
-    },
-    {
         "title": "Learn MySQL",
         "text": "It's next up!",
         "id": "25fae408-3488-4c37-b8b0-1e70d192d965"
+    },
+    {
+        "title": "Learn ES6",
+        "text": "Stay up to date with new syntax that makes you a more efficient and more legible coder!",
+        "id": "f3b5410f-4db8-4202-ba9a-bf05f1314052"
     }
 ]

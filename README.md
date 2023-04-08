@@ -23,25 +23,25 @@ To use this app:
 
 - Click the get started button to open the notes page
 
-![Home Screen](assets\images\homescreen.png)
-![Enter a New Note](assets\images\enternewnote.png)
+![Home Screen](./assets/images/homescreen.png)
+![Enter a New Note](./assets/images/enternewnote.png)
 
 - To enter a new note type a title and text into their respective fields then click the save icon that appears in the upper right hand corner
 
-![New Note](assets\images\newnote.png)
-![New Note Added](assets\images\newnoteadded.png)
+![New Note](./assets/images/newnote.png)
+![New Note Added](./assets/images/newnoteadded.png)
 
 - To view an existing note, click on the note in the left hand column and it will appear in the right hand column in a view only format
 
-![Existing Note](assets\images\existingnote.png)
+![Existing Note](./assets/images/existingnote.png)
 
 - At any time you can click the plus icon in the upper left hand corner and it will reset the input fields allowing you to enter a new note
 
-![Click New Note](assets\images\newnoteadded.png)
+![Click New Note](./assets/images/newnoteadded.png)
 
 - To delete a note simply click the red trash icon next to an existing note to delete it.
 
-![Delete Note](assets\images\deletenote.png)
+![Delete Note](./assets/images/deletenote.png)
 
 ## Credits
 
